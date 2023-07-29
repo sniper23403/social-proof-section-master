@@ -63,3 +63,12 @@
   min-height: 100vh;
   margin: 70px 40px;
   }
+
+  .container {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .title {
+    width: 400px;
+  }
