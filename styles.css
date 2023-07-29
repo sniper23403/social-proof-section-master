@@ -76,6 +76,8 @@
   h1 {
     font-size: 60px;
     line-height: initial;
+    color: var(--Very-Dark-Magenta);
+    font-weight: 700;
   }
 
   .Cards {
@@ -93,5 +95,5 @@
 
   img {
     border-radius: 50%;
-    margin-left: 16px;
+    margin-right: 16px;
   }
