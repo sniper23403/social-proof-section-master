@@ -55,10 +55,11 @@
 
   body {
     font-family: 'League Spartan', sans-serif;
+    background: url("./images/bg-pattern-bottom-desktop.svg") bottom right no-repeat ,
+    url("./images/bg-pattern-top-desktop.svg") top left no-repeat;
+    overflow: hidden;
   }
-  main {
-  background-image: url("./images/bg-pattern-bottom-desktop.svg") no-repeat bottom-right,
-  url(./images/bg-pattern-top-desktop.svg) no-repeat top-left;    
+  main { 
   min-height: 100vh;
   margin: 70px 40px;
   }
