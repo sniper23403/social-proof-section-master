@@ -72,3 +72,26 @@
   .title {
     width: 400px;
   }
+
+  h1 {
+    font-size: 60px;
+    line-height: initial;
+  }
+
+  .Cards {
+    display: flex;
+    justify-content: space-around;
+  }
+  .card {
+    width: 280px;
+  }
+
+  .user{
+    display: flex;
+    align-items: center;
+  }
+
+  img {
+    border-radius: 50%;
+    margin-left: 16px;
+  }
