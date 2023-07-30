@@ -100,6 +100,12 @@
     background-color: var(--Dark-Grayish-Magenta);
     border-radius: 12px;
   }
+  #Guru {
+    margin-left: 2.5em; 
+  }
+  #BestTech {
+    margin-left: 5em;
+  }
 
   .Cards {
     display: flex;
