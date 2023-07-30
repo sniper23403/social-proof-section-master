@@ -79,6 +79,12 @@
     line-height: initial;
     color: var(--Very-Dark-Magenta);
     font-weight: 700;
+    margin-bottom: 1.25em !important;
+  }
+  .title p {
+    font-size: 1.125rem;
+    width: 28.125em ; /*equal to 450px*/
+    color: var(--Dark-Grayish-Magenta);
   }
 
   .Cards {
