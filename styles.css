@@ -94,6 +94,13 @@
     margin-top: 2.5em;
   }
 
+  #rate {
+    width: 28.125em !important;
+    padding: 1em !important;
+    background-color: var(--Dark-Grayish-Magenta);
+    border-radius: 12px;
+  }
+
   .Cards {
     display: flex;
     justify-content: space-around;
