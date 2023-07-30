@@ -113,16 +113,31 @@
     margin-left: 10em !important;
   }
   .card {
-    width: 280px;
-    
+    width: 340px;
+    padding: 2em;
+    background-color: var(--Very-Dark-Magenta);
+    border-radius: 10px;
   }
 
   .user{
     display: flex;
     align-items: center;
+    margin-bottom: 20px;
   }
 
   img {
     border-radius: 50%;
     margin-right: 16px;
+    width: 40px;
+  }
+  .Cards p {
+    font-weight: 500;
+    color: var(--White);
+  }
+  span {
+    color: var(--Soft-Pink);
+    font-weight: 400;
+  }
+  #name {
+    color: var(--White);
   }
