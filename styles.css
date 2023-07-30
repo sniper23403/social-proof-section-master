@@ -81,10 +81,17 @@
     font-weight: 700;
     margin-bottom: 1.25em !important;
   }
+
   .title p {
     font-size: 1.125rem;
     width: 28.125em ; /*equal to 450px*/
     color: var(--Dark-Grayish-Magenta);
+  }
+  .Ratings {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    margin-top: 2.5em;
   }
 
   .Cards {
