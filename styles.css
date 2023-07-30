@@ -109,10 +109,12 @@
 
   .Cards {
     display: flex;
-    justify-content: space-around;
+    gap: 28px 0;
+    margin-left: 10em !important;
   }
   .card {
     width: 280px;
+    
   }
 
   .user{
