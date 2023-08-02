@@ -125,10 +125,11 @@
   .Cards {
     display: flex;
     gap: 28px;
-    margin-left: 12em !important;
+    margin-left: 10em !important;
+    align-items: flex-start;
   }
   .card {
-    width: 340px;
+    width: 350px;
     padding: 2em;
     background-color: var(--Very-Dark-Magenta);
     border-radius: 10px;
@@ -158,8 +159,8 @@
   }
 
   #Irene {
-    margin-top: 40px;
+    margin-top: 20px;
   }
   #Anne {
-    margin-top: 65px;
+    margin-top: 35px;
   }
