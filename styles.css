@@ -85,7 +85,8 @@
   .title p {
     font-size: 1.125rem;
     width: 25.125em ; /*equal to 450px*/
-    color: var(--Very-Dark-Magenta);
+    color: var(--Dark-Grayish-Magenta);
+    font-weight: 500;
   }
   .Ratings {
     display: flex;
