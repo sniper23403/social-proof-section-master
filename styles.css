@@ -67,7 +67,7 @@
   .container {
     display: flex;
     justify-content: space-evenly;
-    margin-bottom: 6.25em !important;
+    margin-bottom: 3.25em !important;
   }
 
   .title {
@@ -79,12 +79,12 @@
     line-height: initial;
     color: var(--Very-Dark-Magenta);
     font-weight: 700;
-    margin-bottom: 1.25em !important;
+    margin-bottom: 0.5em !important;
   }
 
   .title p {
     font-size: 1.125rem;
-    width: 28.125em ; /*equal to 450px*/
+    width: 25.125em ; /*equal to 450px*/
     color: var(--Dark-Grayish-Magenta);
   }
   .Ratings {
@@ -97,20 +97,20 @@
   #rate {
     width: 28.125em !important;
     padding: 1em !important;
-    background-color: var(--Dark-Grayish-Magenta);
+    background-color: var(--Light-Grayish-Magenta);
     border-radius: 12px;
   }
-  #Guru {
+  .Guru {
     margin-left: 2.5em; 
   }
-  #BestTech {
+  .BestTech {
     margin-left: 5em;
   }
 
   .Cards {
     display: flex;
-    gap: 28px 0;
-    margin-left: 10em !important;
+    gap: 28px;
+    margin-left: 12em !important;
   }
   .card {
     width: 340px;
