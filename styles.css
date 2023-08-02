@@ -97,9 +97,18 @@
   #rate {
     width: 28.125em !important;
     padding: 1em !important;
+    display: flex;
+    align-items: center;
+
     background-color: var(--Light-Grayish-Magenta);
     border-radius: 12px;
+    font-weight: 700;
+    color: var(--Dark-Grayish-Magenta);
   }
+  .stars {
+    display: flex;
+  }
+
   .Guru {
     margin-left: 2.5em; 
   }
