@@ -61,7 +61,7 @@
   }
   main { 
   min-height: 100vh;
-  margin: 70px 40px;
+  margin: 100px 40px;
   }
 
   .container {
@@ -124,8 +124,8 @@
 
   .Cards {
     display: flex;
-    gap: 28px;
-    margin-left: 10em !important;
+    gap: 16px;
+    margin-left: 190px !important;
     align-items: flex-start;
   }
   .card {
