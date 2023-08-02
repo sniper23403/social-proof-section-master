@@ -61,7 +61,7 @@
   }
   main { 
     min-height: 100vh;
-    margin: 100px 40px;
+    padding: 100px 40px;
   }
 
   .container {
@@ -192,3 +192,57 @@
     margin-top: 35px;
   }
 
+@media screen  and (max-width: 450px) {
+  body {
+    background: url(./images/bg-pattern-bottom-mobile.svg) bottom right no-repeat,
+    url(./images/bg-pattern-top-mobile.svg) top left no-repeat;
+    overflow: scroll;
+  }
+  main {
+    padding: 80px 25px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .container {
+    flex-direction: column;
+  }
+  .title {
+    width: 359px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  h1 {
+    text-align: center;
+    font-size: 2.5rem;
+  }
+  .title p {
+    width: 18.125em;
+    text-align: center;
+  }
+  .Ratings {
+    align-items: center;
+  }
+  #rate {
+    width: 20.125em !important;
+    flex-direction: column;
+  }
+  .stars {
+    margin-bottom: 16px;
+  }
+  .Guru,.BestTech {
+    margin-left: 0px;
+  }
+  .Cards {
+    align-items: center;
+    flex-direction: column;
+    margin-left: 0px !important;
+  }
+  .card {
+    width: 328px;
+  }
+  #Anne,#Irene {
+    margin-top: 0px;
+  }
+}
