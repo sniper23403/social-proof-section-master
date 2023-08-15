@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-solution-pkT8Mviykr)
+- Solution URL:(https://www.frontendmentor.io/solutions/social-proof-section-solution-Xrui2Fvb1P)
 - Live Site URL:(https://sniper23403.github.io/social-proof-section-master/)
 
 ## My process
